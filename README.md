@@ -10,5 +10,3 @@ This project has you covered!
 - **Wide Coverage:** Scans multiple credit card benefit pages.
 - **Comprehensive Collection:** Aggregates all available coupons into one place.
 - **Easy Search:** Find the best deals by simply entering a keyword.
-
-Start saving today with **Coupon Finder**!
