@@ -1,4 +1,5 @@
 Coupon Finder
+
 Looking for a coupon for pizza, a movie, or perhaps a valuable gift card at the best discount available from all your credit card coupons?
 This project has you covered!
 
