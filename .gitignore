@@ -1,0 +1,6 @@
+.env
+/old/
+/__pycache__/
+/opensearch_py-2.5.0.dist-info/
+/opensearchpy/
+/Scripts/
